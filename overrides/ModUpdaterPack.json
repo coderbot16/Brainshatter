@@ -1,0 +1,536 @@
+{
+ "Name": "Brainshatter",
+ "CustomName": "BSI",
+ "ShowCustomName": false,
+ "ProjectID": -1,
+ "FileID": 0,
+ "MC_Version": "1.12.2",
+ "URL": "https://minecraft.curseforge.com/projects/-1",
+ "Mods": [
+  {
+   "ProjectID": 313141,
+   "FileID": 2675884,
+   "Name": "Advanced Solar Materials",
+   "FileName": "advsolars-1.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 248787,
+   "FileID": 2496585,
+   "Name": "AppleSkin",
+   "FileName": "AppleSkin-mc1.12-1.0.9.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 314916,
+   "FileID": 2676658,
+   "Name": "Auxiliary Biomes",
+   "FileName": "AuxiliaryBiomes-1.12-1.0.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 227083,
+   "FileID": 2518667,
+   "Name": "Baubles",
+   "FileName": "Baubles-1.12-1.5.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229876,
+   "FileID": 2483393,
+   "Name": "BetterFps",
+   "FileName": "BetterFps-1.4.8.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 228027,
+   "FileID": 2574880,
+   "Name": "BiblioCraft",
+   "FileName": "BiblioCraft[v2.4.5][MC1.12.2].jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 223525,
+   "FileID": 2676539,
+   "Name": "Binnie's Mods",
+   "FileName": "binnie-mods-1.12.2-2.5.1.188.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 61811,
+   "FileID": 2687203,
+   "Name": "Buildcraft",
+   "FileName": "buildcraft-all-7.99.23.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 282001,
+   "FileID": 2679513,
+   "Name": "CC: Tweaked",
+   "FileName": "cc-tweaked-1.12.2-1.81.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 287664,
+   "FileID": 2604818,
+   "Name": "Charset Crafting",
+   "FileName": "Charset-Crafting-0.5.5.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 284523,
+   "FileID": 2626374,
+   "Name": "Charset Lib",
+   "FileName": "Charset-Lib-0.5.5.6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 284529,
+   "FileID": 2602410,
+   "Name": "Charset Storage - Barrels",
+   "FileName": "Charset-StorageBarrels-0.5.4.8.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 243883,
+   "FileID": 2594241,
+   "Name": "Chicken Chunks 1.8.+",
+   "FileName": "ChickenChunks-1.12.2-2.4.1.73-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 256717,
+   "FileID": 2666198,
+   "Name": "Clumps",
+   "FileName": "Clumps-3.1.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 242818,
+   "FileID": 2618630,
+   "Name": "CodeChicken Lib 1.8.+",
+   "FileName": "CodeChickenLib-1.12.2-3.2.2.353-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 69162,
+   "FileID": 2669253,
+   "Name": "CoFH Core",
+   "FileName": "CoFHCore-1.12.2-4.6.2.25-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 271384,
+   "FileID": 2623091,
+   "Name": "CoFH World",
+   "FileName": "CoFHWorld-1.12.2-1.3.0.6-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 239197,
+   "FileID": 2576160,
+   "Name": "CraftTweaker",
+   "FileName": "CraftTweaker2-1.12-4.1.9.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 299540,
+   "FileID": 2690882,
+   "Name": "FastFurnace",
+   "FileName": "FastFurnace-1.12.2-1.2.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 288885,
+   "FileID": 2676550,
+   "Name": "FastWorkbench",
+   "FileName": "FastWorkbench-1.12.2-1.6.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 232683,
+   "FileID": 2662260,
+   "Name": "FFS - Fancy Fluid Storage",
+   "FileName": "Fancy Fluid Storage-1.12.2-2.2.3.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 224728,
+   "FileID": 2669151,
+   "Name": "FloodLights",
+   "FileName": "FloodLights-1.12.2-1.3.2-14.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 278494,
+   "FileID": 2638380,
+   "Name": "FoamFix for Minecraft",
+   "FileName": "foamfix-0.10.3-1.12.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 59751,
+   "FileID": 2684780,
+   "Name": "Forestry",
+   "FileName": "forestry_1.12.2-5.8.2.387.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 258426,
+   "FileID": 2661099,
+   "Name": "Forge MultiPart CBE",
+   "FileName": "ForgeMultipart-1.12.2-2.6.1.81-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 228832,
+   "FileID": 2645992,
+   "Name": "Guide-API",
+   "FileName": "Guide-API-1.12-2.1.8-63.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 242942,
+   "FileID": 2676069,
+   "Name": "IC2 Classic",
+   "FileName": "IC2Classic 1.12-1.5.4.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 228756,
+   "FileID": 2670493,
+   "Name": "Iron Chests",
+   "FileName": "ironchest-1.12.2-7.0.59.842.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 248370,
+   "FileID": 2490058,
+   "Name": "JEI Bees",
+   "FileName": "jeibees-0.9.0.5-mc1.12.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 238222,
+   "FileID": 2682936,
+   "Name": "Just Enough Items (JEI)",
+   "FileName": "jei_1.12.2-4.15.0.268.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 231387,
+   "FileID": 2510933,
+   "Name": "Mapwriter 2",
+   "FileName": "MapWriter-1.12.2-2.8.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 239431,
+   "FileID": 2615930,
+   "Name": "MCMultiPart",
+   "FileName": "MCMultiPart-2.5.3.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 220954,
+   "FileID": 2666266,
+   "Name": "ModTweaker",
+   "FileName": "modtweaker-4.0.16.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 59882,
+   "FileID": 2581227,
+   "Name": "Modular Forcefield System",
+   "FileName": "MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 243478,
+   "FileID": 2589773,
+   "Name": "More Overlays",
+   "FileName": "moreoverlays-1.14-mc1.12.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229002,
+   "FileID": 2572409,
+   "Name": "MrTJPCore",
+   "FileName": "MrTJPCore-1.12.2-2.1.3.35-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 253211,
+   "FileID": 2684561,
+   "Name": "MTLib",
+   "FileName": "MTLib-3.0.6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 244769,
+   "FileID": 2441985,
+   "Name": "Obsidian Plates",
+   "FileName": "ObsidianPlates-1.3.0_1.12.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 279746,
+   "FileID": 2636186,
+   "Name": "PeripheralsPlusOne",
+   "FileName": "PeripheralsPlusOne-1.12.2-1.2-build-T71.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 296260,
+   "FileID": 2624814,
+   "Name": "PigUtils",
+   "FileName": "iChunUtil-1.12.2-7.1.4.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229084,
+   "FileID": 2684033,
+   "Name": "Portal Gun",
+   "FileName": "PortalGun-1.12.2-7.1.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 228702,
+   "FileID": 2572423,
+   "Name": "Project Red - Base",
+   "FileName": "ProjectRed-1.12.2-4.9.1.92-Base.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229050,
+   "FileID": 2572420,
+   "Name": "Project Red - Compat",
+   "FileName": "ProjectRed-1.12.2-4.9.1.92-compat.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 230111,
+   "FileID": 2572424,
+   "Name": "Project Red - Fabrication",
+   "FileName": "ProjectRed-1.12.2-4.9.1.92-fabrication.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229045,
+   "FileID": 2572427,
+   "Name": "Project Red - Integration",
+   "FileName": "ProjectRed-1.12.2-4.9.1.92-integration.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229046,
+   "FileID": 2572426,
+   "Name": "Project Red - Lighting",
+   "FileName": "ProjectRed-1.12.2-4.9.1.92-lighting.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229048,
+   "FileID": 2572422,
+   "Name": "Project Red - Mechanical",
+   "FileName": "ProjectRed-1.12.2-4.9.1.92-mechanical.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229049,
+   "FileID": 2572421,
+   "Name": "Project Red - World",
+   "FileName": "ProjectRed-1.12.2-4.9.1.92-world.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 276915,
+   "FileID": 2619757,
+   "Name": "QuackLib",
+   "FileName": "quacklib-2.2.5.jar",
+   "CustomSide": 0
+  },
+  {
+    "ProjectID": 317638,
+    "FileID": 2690929,
+    "Name": "Quartzium",
+    "FileName": "Quartzium-1.12-1.0.0.jar",
+    "CustomSide": 0
+  },
+  {
+   "ProjectID": 51195,
+   "FileID": 2687757,
+   "Name": "Railcraft",
+   "FileName": "railcraft-12.0.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 237903,
+   "FileID": 2688566,
+   "Name": "Reborn Core",
+   "FileName": "RebornCore-1.12.2-3.13.8.430-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 270789,
+   "FileID": 2623090,
+   "Name": "Redstone Flux",
+   "FileName": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 314574,
+   "FileID": 2690966,
+   "Name": "Redwoods",
+   "FileName": "Redwoods-1.12-1.2.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 276918,
+   "FileID": 2668652,
+   "Name": "RetroComputers",
+   "FileName": "retrocomputers-3.0.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 248453,
+   "FileID": 2640952,
+   "Name": "Shadowfacts' Forgelin",
+   "FileName": "Forgelin-1.8.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 246761,
+   "FileID": 2557828,
+   "Name": "Simple Corn",
+   "FileName": "SimpleCorn1.12-1.12-2.4.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 309352,
+   "FileID": 2675920,
+   "Name": "Simple Flax",
+   "FileName": "SimpleFlax-1.1.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 291549,
+   "FileID": 2645962,
+   "Name": "Soul Shards Respawn",
+   "FileName": "SoulShardsRespawn-1.12.2-1.1.0-12.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 253462,
+   "FileID": 2662385,
+   "Name": "Steve's Carts Reborn",
+   "FileName": "StevesCarts-1.12.2-2.4.29.132.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 309581,
+   "FileID": 2651875,
+   "Name": "Sulfur Torches",
+   "FileName": "SulfurTorches-0.1.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 250290,
+   "FileID": 2665849,
+   "Name": "Surge",
+   "FileName": "Surge-1.12.2-2.0.77.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 233564,
+   "FileID": 2688490,
+   "Name": "Tech Reborn",
+   "FileName": "TechReborn-1.12.2-2.21.2.960-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 223628,
+   "FileID": 2629023,
+   "Name": "Thaumcraft",
+   "FileName": "Thaumcraft-1.12.2-6.1.BETA26.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 285492,
+   "FileID": 2637182,
+   "Name": "Thaumic JEI",
+   "FileName": "ThaumicJEI-1.12.2-1.5.5-23.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 279748,
+   "FileID": 2550450,
+   "Name": "The Framework",
+   "FileName": "TheFramework-1.12.2-1.0.1-build-T23.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 227639,
+   "FileID": 2618264,
+   "Name": "The Twilight Forest",
+   "FileName": "twilightforest-1.12.2-3.8.689-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 227443,
+   "FileID": 2669256,
+   "Name": "Thermal Dynamics",
+   "FileName": "ThermalDynamics-1.12.2-2.5.4.18-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 69163,
+   "FileID": 2669257,
+   "Name": "Thermal Expansion",
+   "FileName": "ThermalExpansion-1.12.2-5.5.3.41-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 222880,
+   "FileID": 2669258,
+   "Name": "Thermal Foundation",
+   "FileName": "ThermalFoundation-1.12.2-2.6.2.26-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 267769,
+   "FileID": 2613657,
+   "Name": "Traverse",
+   "FileName": "Traverse-1.12.2-1.6.0-69.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 244258,
+   "FileID": 2652588,
+   "Name": "UniDict",
+   "FileName": "UniDict-1.12.2-2.9.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 292785,
+   "FileID": 2639533,
+   "Name": "VanillaFix",
+   "FileName": "VanillaFix-1.0.10-99.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 253043,
+   "FileID": 2534271,
+   "Name": "WanionLib",
+   "FileName": "WanionLib-1.12.2-1.5.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 260824,
+   "FileID": 2622045,
+   "Name": "Wireless Redstone CBE",
+   "FileName": "WR-CBE-1.12.2-2.3.1.30-universal.jar",
+   "CustomSide": 0
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+# Timestamps
+buildcraft/detailed.properties
+codechicken/supporters.marker
+codechicken/supporters.json
+splash.properties
+ichunutil.cfg
+
+# Saved player data (JEI search string, etc)
+buildcraft/gui.json
+jei/worldSettings.cfg
+
+# Other misc data
+vanillafix/
+MapWriterBlockColourOverrides.txt
+MapWriterBlockColours.txt
