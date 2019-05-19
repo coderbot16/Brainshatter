@@ -15,3 +15,21 @@ recipes.removeByRecipeName("thermaldynamics:duct_32_1"); // Lead/Tin => Itemduct
 // REF Cost: (2 RS + 0.33 Electrum + 0.08 Lead + 0.08 Obsidian)
 mods.jei.JEI.removeAndHide(<thermaldynamics:duct_0:1>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<thermaldynamics:duct_0:1>);
+
+// Buffs the yield of hardened ducts to compensate:
+recipes.remove(<thermaldynamics:duct_16:2>); // Hardened Fluiduct
+recipes.addShaped("hardened_fluiduct_buffed", <thermaldynamics:duct_16:2>*12, [
+	[<ore:ingotInvar>, <ore:blockGlassHardened>, <ore:ingotInvar>]
+]);
+
+recipes.addShaped("hardened_fluiduct_conversion", <thermaldynamics:duct_16:2>*8, [
+	[<thermaldynamics:duct_16:3>, <thermaldynamics:duct_16:3>, <thermaldynamics:duct_16:3>],
+	[<thermaldynamics:duct_16:3>, <thermaldynamics:duct_16:3>, <thermaldynamics:duct_16:3>],
+	[<thermaldynamics:duct_16:3>, <ore:blockGlassHardened>, <thermaldynamics:duct_16:3>],
+]);
+
+recipes.removeByRecipeName("thermaldynamics:duct_32");
+recipes.remove(<thermaldynamics:duct_32>); // Hardened Itemduct
+recipes.addShaped("hardened_itemduct_buffed", <thermaldynamics:duct_32>*12, [
+	[<ore:ingotTin>, <ore:blockGlassHardened>, <ore:ingotTin>]
+]);

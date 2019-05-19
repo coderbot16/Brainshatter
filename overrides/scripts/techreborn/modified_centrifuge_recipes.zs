@@ -23,7 +23,7 @@ mods.techreborn.centrifuge.addRecipe(rubber*14, plantball, compressedPlants, nul
 
 // 16x Rubber Log => 8x Sap + 6x Plantball + 1x Methane Cell + 4x Carbon Cell
 mods.techreborn.centrifuge.removeInputRecipe(<techreborn:rubber_log>*16);
-mods.techreborn.centrifuge.addRecipe(sap*8, plantball*6, methaneCell, carbonCell*4, <techreborn:rubber_log>*16, null, 5000, 5).setUseOreDict(false);
+mods.techreborn.centrifuge.addRecipe(sap*8, plantball*6, methaneCell, carbonCell*4, <techreborn:rubber_log>*16, <techreborn:dynamiccell>*5, 5000, 5).setUseOreDict(false);
 
 // 16x Netherrack Dust => 1x Redstone + 4x Sulfur + 1x Coal + 1x Gold Nugget
 mods.techreborn.centrifuge.removeInputRecipe(dustNetherrack*16);
